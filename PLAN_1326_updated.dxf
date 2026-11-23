@@ -35,17 +35,17 @@ $EXTMIN
  10
 211704.2363250423
  20
-602837.0246873179
+602839.188802373
  30
 0.0
   9
 $EXTMAX
  10
-212248.5343240869
+212247.783101059
  20
 603689.1545892324
  30
-940.3202199376087
+0.0
   9
 $LIMMIN
  10
@@ -493,7 +493,7 @@ $SKPOLY
   9
 $TDCREATE
  40
-2461368.520150463
+2461368.5316782407
   9
 $TDUCREATE
  40
@@ -501,19 +501,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2461368.520150463
+2461368.5316782407
   9
 $TDUUPDATE
  40
-2461368.485439815
+2461368.530069445
   9
 $TDINDWG
  40
-0.1456018519
+0.1548726852
   9
 $TDUSRTIMER
  40
-0.1456018519
+0.1548726852
   9
 $USRTIMER
  70
@@ -553,7 +553,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-1ABC
+1D17
   9
 $SURFTAB1
  70
@@ -937,7 +937,7 @@ $FINGERPRINTGUID
   9
 $VERSIONGUID
   2
-{41760183-8406-40AC-8751-D23EA4FA6ADF}
+{04D62BB0-4979-4F5D-BE3C-70D4C0CA20B7}
   9
 $EXTNAMES
 290
@@ -1247,7 +1247,7 @@ ObjectDBX Classes
  90
 1152
  91
-2
+4
 280
 0
 281
@@ -1871,7 +1871,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -1887,7 +1887,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-7
+0
 280
 0
 281
@@ -1903,7 +1903,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -1919,7 +1919,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -1935,7 +1935,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -1951,7 +1951,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -1967,7 +1967,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -1983,7 +1983,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -1999,7 +1999,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-12
+0
 280
 0
 281
@@ -2015,7 +2015,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2031,7 +2031,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2047,7 +2047,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2063,7 +2063,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2079,7 +2079,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2095,7 +2095,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2111,7 +2111,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-11
+0
 280
 0
 281
@@ -2127,7 +2127,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2143,7 +2143,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2159,7 +2159,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2175,7 +2175,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2191,7 +2191,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2207,7 +2207,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-2
+0
 280
 0
 281
@@ -2223,7 +2223,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2239,7 +2239,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2255,7 +2255,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2271,7 +2271,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2287,7 +2287,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2303,7 +2303,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2319,7 +2319,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2335,7 +2335,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2351,7 +2351,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-2
+0
 280
 0
 281
@@ -2367,7 +2367,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2383,7 +2383,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2399,7 +2399,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2415,7 +2415,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2431,7 +2431,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2447,7 +2447,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2463,7 +2463,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2479,7 +2479,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2495,7 +2495,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-9
+0
 280
 0
 281
@@ -2511,7 +2511,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2527,7 +2527,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2543,7 +2543,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2559,7 +2559,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2575,7 +2575,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2591,7 +2591,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2607,7 +2607,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2623,7 +2623,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 893
  91
-1
+0
 280
 0
 281
@@ -2639,7 +2639,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2655,7 +2655,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-5
+0
 280
 0
 281
@@ -2671,7 +2671,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2687,7 +2687,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2703,7 +2703,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2719,7 +2719,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-3
+0
 280
 0
 281
@@ -2735,7 +2735,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2751,7 +2751,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-3
+0
 280
 0
 281
@@ -2767,7 +2767,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2783,7 +2783,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2799,7 +2799,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2815,7 +2815,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2831,7 +2831,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2847,7 +2847,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2863,7 +2863,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-4
+0
 280
 0
 281
@@ -2879,7 +2879,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2895,7 +2895,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-4
+0
 280
 0
 281
@@ -2911,7 +2911,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2927,7 +2927,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2943,7 +2943,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2959,7 +2959,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2975,7 +2975,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -2991,7 +2991,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3007,7 +3007,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-3
+0
 280
 0
 281
@@ -3023,7 +3023,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3039,7 +3039,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3055,7 +3055,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3071,7 +3071,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3087,7 +3087,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3103,7 +3103,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3119,7 +3119,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3135,7 +3135,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3151,7 +3151,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3167,7 +3167,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3183,7 +3183,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3199,7 +3199,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3215,7 +3215,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3231,7 +3231,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3247,7 +3247,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-2
+0
 280
 0
 281
@@ -3263,7 +3263,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3279,7 +3279,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-2
+0
 280
 0
 281
@@ -3295,7 +3295,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3311,7 +3311,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3327,7 +3327,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3343,7 +3343,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3359,7 +3359,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-2
+0
 280
 0
 281
@@ -3375,7 +3375,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3391,7 +3391,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3407,7 +3407,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3423,7 +3423,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3439,7 +3439,7 @@ AecSchedule80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3455,7 +3455,7 @@ AecSchedule80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3471,7 +3471,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3487,7 +3487,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3503,7 +3503,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3519,7 +3519,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3535,7 +3535,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3551,7 +3551,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3567,7 +3567,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3583,7 +3583,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3599,7 +3599,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3615,7 +3615,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3631,7 +3631,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3647,7 +3647,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-3
+0
 280
 0
 281
@@ -3663,7 +3663,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3679,7 +3679,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3695,7 +3695,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-4
+0
 280
 0
 281
@@ -3711,7 +3711,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3727,7 +3727,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3743,7 +3743,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-3
+0
 280
 0
 281
@@ -3759,7 +3759,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3775,7 +3775,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3791,7 +3791,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3807,7 +3807,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3823,7 +3823,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3839,7 +3839,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3855,7 +3855,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3871,7 +3871,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3887,7 +3887,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3903,7 +3903,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3919,7 +3919,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3935,7 +3935,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3951,7 +3951,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3967,7 +3967,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3983,7 +3983,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -3999,7 +3999,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4015,7 +4015,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-2
+0
 280
 0
 281
@@ -4031,7 +4031,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4047,7 +4047,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4063,7 +4063,7 @@ AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk
  90
 129
  91
-3
+0
 280
 0
 281
@@ -4079,7 +4079,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4095,7 +4095,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4111,7 +4111,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4127,7 +4127,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4143,7 +4143,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-2
+0
 280
 0
 281
@@ -4159,7 +4159,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4175,7 +4175,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4191,7 +4191,7 @@ AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk
  90
 129
  91
-3
+0
 280
 0
 281
@@ -4207,7 +4207,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4223,7 +4223,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-2
+0
 280
 0
 281
@@ -4239,7 +4239,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4255,7 +4255,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-2
+0
 280
 0
 281
@@ -4271,7 +4271,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4287,7 +4287,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4303,7 +4303,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4319,7 +4319,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4335,7 +4335,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4351,7 +4351,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4367,7 +4367,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4383,7 +4383,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4399,7 +4399,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4415,7 +4415,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4431,7 +4431,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4447,7 +4447,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4463,7 +4463,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4479,7 +4479,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4495,7 +4495,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4511,7 +4511,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4527,7 +4527,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4543,7 +4543,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4559,7 +4559,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4575,7 +4575,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4591,7 +4591,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4607,7 +4607,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4623,7 +4623,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4639,7 +4639,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4655,7 +4655,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4671,7 +4671,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-2
+0
 280
 0
 281
@@ -4687,7 +4687,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4703,7 +4703,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4719,7 +4719,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4735,7 +4735,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4751,7 +4751,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4767,7 +4767,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4783,7 +4783,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4799,7 +4799,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4815,7 +4815,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4831,7 +4831,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4847,7 +4847,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4863,7 +4863,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4879,7 +4879,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4895,7 +4895,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4911,7 +4911,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4927,7 +4927,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4943,7 +4943,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4959,7 +4959,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4975,7 +4975,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -4991,7 +4991,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-4
+0
 280
 0
 281
@@ -5007,7 +5007,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5023,7 +5023,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5039,7 +5039,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5055,7 +5055,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5071,7 +5071,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5087,7 +5087,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5103,7 +5103,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5119,7 +5119,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5135,7 +5135,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5151,7 +5151,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5167,7 +5167,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5183,7 +5183,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5199,7 +5199,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5215,7 +5215,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5231,7 +5231,7 @@ AecArchBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autode
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5247,7 +5247,7 @@ AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5263,7 +5263,7 @@ AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5279,7 +5279,7 @@ AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5295,7 +5295,7 @@ AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5311,7 +5311,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-8
+0
 280
 0
 281
@@ -5327,7 +5327,7 @@ AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,I
  90
 129
  91
-1
+0
 280
 0
 281
@@ -5405,9 +5405,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-211871.1590029059
+211840.9292067954
  22
-603223.463719433
+603247.5168020766
  13
 0.0
  23
@@ -5433,7 +5433,7 @@ AcDbViewportTableRecord
  37
 0.0
  40
-1510.876820576484
+1584.317147875903
  41
 2.265335235378031
  42
@@ -5798,6 +5798,8 @@ Continuous
 F
 347
 98
+348
+0
   0
 ENDTAB
   0
@@ -7719,7 +7721,7 @@ AcDbPolyline
  10
 -6.0
  20
--2.499999999999997
+-2.499999999999996
  10
 6.0
  20
@@ -7915,11 +7917,11 @@ AcDbPolyline
  70
 1
  10
-212047.56580888532
+212047.5658088853
  20
 603342.6986468157
  10
-212047.55137424803
+212047.5513742481
  20
 603342.67763778
  42
@@ -7941,17 +7943,17 @@ AcDbPolyline
  70
 1
  10
-212047.55137424803
+212047.5513742481
  20
 603342.67763778
  10
-212047.56580888532
+212047.5658088853
  20
 603342.6986468157
  42
 17.214673932507
  10
-212047.55137424803
+212047.5513742481
  20
 603342.67763778
  10
@@ -7963,11 +7965,11 @@ AcDbPolyline
  20
 603326.3934736763
  10
-212041.89442782672
+212041.8944278267
  20
 603319.0263958939
  10
-212040.12339367362
+212040.1233936736
  20
 603320.206090138
  10
@@ -7977,7 +7979,7 @@ AcDbPolyline
  42
 0.4703353762595273
  10
-212033.77721509393
+212033.777215094
  20
 603292.6308380668
  10
@@ -7987,21 +7989,21 @@ AcDbPolyline
  42
 0.3922223462883708
  10
-212012.82007907942
+212012.8200790794
  20
 603280.9814049933
  10
-212007.50700493553
+212007.5070049356
  20
-603283.9306253758
+603283.930625376
  10
-212009.27803908862
+212009.2780390887
  20
 603285.9950864959
  10
-211985.97813254752
+211985.9781325476
  20
-603302.1102571493
+603302.1102571494
  10
 212023.962864828
  20
@@ -8013,7 +8015,7 @@ AcDbPolyline
  20
 603358.8186218265
  10
-212046.76560297923
+212046.7656029793
  20
 603347.66293347
  42
@@ -8039,13 +8041,13 @@ AcDbPolyline
  20
 603331.0637323249
  10
-212047.55137424803
+212047.5513742481
  20
 603342.67763778
  42
 0.4673489773863853
  10
-212046.76560297923
+212046.7656029793
  20
 603347.66293347
  10
@@ -8059,41 +8061,41 @@ AcDbPolyline
  20
 603357.5874485
  10
-211985.97813254752
+211985.9781325476
  20
-603302.1102571493
+603302.1102571494
  10
-211984.96453396502
+211984.964533965
  20
 603300.629883348
  42
 0.3407293221693143
  10
-211985.66476515762
+211985.6647651576
  20
-603289.2601427733
+603289.2601427732
  10
-212014.76893858862
+212014.7689385886
  20
 603276.8408656203
  42
 0.2903840963470927
  10
-212033.11906894142
+212033.1190689415
  20
 603283.4171998695
  42
 0.007166440297982
  10
-212066.01801370512
+212066.0180137051
  20
-603326.9535349659
+603326.953534966
  42
 -0.2221522523623165
  10
 212079.3592937559
  20
-603333.9626981127
+603333.9626981128
  10
 212100.834357638
  20
@@ -8103,7 +8105,7 @@ AcDbPolyline
  20
 603327.246733014
  10
-212080.52882584772
+212080.5288258477
  20
 603318.8731493518
  10
@@ -8219,19 +8221,19 @@ AcDbPolyline
  20
 603255.1112873536
  10
-211958.43210517042
+211958.4321051704
  20
 603280.6268505956
  10
 211955.3214505004
  20
-603282.3470816073
+603282.3470816072
  10
-211942.42754481232
+211942.4275448124
  20
 603290.702086686
  10
-211929.9459877942
+211929.9459877943
  20
 603298.4172254992
  10
@@ -8239,23 +8241,23 @@ AcDbPolyline
  20
 603309.7472161325
  10
-211906.59224944763
+211906.5922494477
  20
 603317.0764934813
  10
-211897.24862082172
+211897.2486208217
  20
 603327.1242083941
  10
-211888.15470532392
+211888.154705324
  20
 603335.7966135081
  10
-211878.55662504112
+211878.5566250411
  20
 603346.0683512487
  10
-211865.65567499932
+211865.6556749993
  20
 603360.4676331099
  10
@@ -8267,7 +8269,7 @@ AcDbPolyline
  20
 603387.8239192234
  10
-211837.78088127405
+211837.7808812741
  20
 603398.7993720133
  10
@@ -8275,27 +8277,27 @@ AcDbPolyline
  20
 603403.0207480735
  10
-211828.43523561372
+211828.4352356137
  20
 603414.8256579929
  10
-211819.02664253573
+211819.0266425358
  20
 603432.3567987703
  10
-211811.95734716533
+211811.9573471653
  20
 603444.3218922344
  10
-211809.96402354015
+211809.9640235401
  20
 603448.580776487
  10
-211804.42620707772
+211804.4262070776
  20
 603460.4127334394
  10
-211798.70538607612
+211798.7053860761
  20
 603474.2638105988
  10
@@ -8325,7 +8327,7 @@ AcDbPolyline
  20
 603582.3325340123
  10
-211782.43435633698
+211782.434356337
  20
 603584.6352312393
  10
@@ -8339,7 +8341,7 @@ AcDbPolyline
  10
 211796.8656162176
  20
-603545.8151034577
+603545.8151034578
  42
 0.2924158592890599
  10
@@ -8377,13 +8379,13 @@ AcDbPolyline
  42
 0.0868875671692586
  10
-211946.31553926962
+211946.3155392697
  20
 603527.0176191846
  10
 211992.9541808775
  20
-603549.2188227535
+603549.2188227536
  42
 -0.0117131920073145
  10
@@ -8679,7 +8681,7 @@ AcDbPolyline
  10
 212010.8740479847
  20
-603538.0066133466
+603538.0066133465
  42
 0.0423199757539421
  10
@@ -8699,7 +8701,7 @@ AcDbPolyline
  10
 211895.3595132247
  20
-603507.9054464353
+603507.9054464354
  10
 211857.6107457953
  20
@@ -8707,17 +8709,17 @@ AcDbPolyline
  42
 0.0470687572928996
  10
-211829.85303969763
+211829.8530396977
  20
-603524.1144053029
+603524.114405303
  42
 0.4323963360924693
  10
-211811.28667632712
+211811.2866763271
  20
 603499.8328121987
  10
-211812.41227656382
+211812.4122765639
  20
 603496.3296288187
  10
@@ -8725,11 +8727,11 @@ AcDbPolyline
  20
 603481.262492675
  10
-211822.73566288862
+211822.7356628886
  20
 603468.4735120762
  10
-211829.66466246682
+211829.6646624668
  20
 603453.6691888762
  10
@@ -8743,25 +8745,25 @@ AcDbPolyline
  10
 211852.1994513979
  20
-603413.3435093549
+603413.343509355
  10
-211861.29519020312
+211861.2951902031
  20
 603399.2405912292
  10
-211870.06112397512
+211870.0611239751
  20
 603387.5014753835
  10
 211881.042395325
  20
-603373.2656752181
+603373.2656752182
  10
 211892.5062831728
  20
-603360.4703576785
+603360.4703576784
  10
-211893.31279004362
+211893.3127900436
  20
 603359.5701821317
  10
@@ -8771,7 +8773,7 @@ AcDbPolyline
  10
 211911.4857871689
  20
-603341.1834928963
+603341.1834928964
  10
 211920.2350949665
  20
@@ -8779,7 +8781,7 @@ AcDbPolyline
  10
 211928.241222353
  20
-603325.371163282
+603325.3711632821
  10
 211941.4848701771
  20
@@ -8789,29 +8791,29 @@ AcDbPolyline
  20
 603307.4864272393
  10
-211958.81663797892
+211958.8166379789
  20
-603303.914004362
+603303.9140043621
  42
 0.3239985291821532
  10
-211973.87916423212
+211973.8791642321
  20
 603308.3353126615
  10
-212018.55079937752
+212018.5507993776
  20
 603373.5788118814
  42
 -0.4067010086327925
  10
-212030.94205160392
+212030.9420516039
  20
 603374.946128799
  10
 212060.0360233841
  20
-603354.9080793624
+603354.9080793625
  42
 0.3889479213748325
  10
@@ -8821,13 +8823,13 @@ AcDbPolyline
  42
 -0.0458831584610512
  10
-212069.24788034472
+212069.2478803448
  20
 603359.3794934676
  10
 212081.1556377834
  20
-603351.8565991289
+603351.856599129
  10
 212058.0068058473
  20
@@ -8835,7 +8837,7 @@ AcDbPolyline
  10
 212055.2628363679
  20
-603321.2001182449
+603321.200118245
  10
 212047.0012632436
  20
@@ -8857,7 +8859,7 @@ AcDbPolyline
  70
 1
  10
-212041.89442782672
+212041.8944278267
  20
 603319.0263958939
  10
@@ -8867,7 +8869,7 @@ AcDbPolyline
  10
 212055.2628363679
  20
-603321.2001182449
+603321.200118245
  10
 212058.0068058473
  20
@@ -8875,33 +8877,33 @@ AcDbPolyline
  10
 212081.1556377834
  20
-603351.8565991289
+603351.856599129
  10
-212081.64325588642
+212081.6432558864
  20
 603351.5066045659
  10
-212096.94217057343
+212096.9421705734
  20
 603340.5255992936
  10
 212129.6359446602
  20
-603379.1310950784
+603379.1310950785
  10
 212134.0196378843
  20
-603375.3763062643
+603375.3763062644
  10
 212130.0374302298
  20
 603370.6166430119
  10
-212120.18872301021
+212120.1887230102
  20
 603357.1623658803
  10
-212109.25924685682
+212109.2592468568
  20
 603344.345253784
  10
@@ -8911,49 +8913,49 @@ AcDbPolyline
  10
 212079.3592937559
  20
-603333.9626981127
+603333.9626981128
  42
 0.2221522523623166
  10
-212066.01801370512
+212066.0180137051
  20
-603326.9535349659
+603326.953534966
  42
 -0.007166440297982
  10
-212033.11906894142
+212033.1190689415
  20
 603283.4171998695
  42
 -0.2903840963470927
  10
-212014.76893858862
+212014.7689385886
  20
 603276.8408656203
  10
-211985.66476515762
+211985.6647651576
  20
-603289.2601427733
+603289.2601427732
  42
 -0.3407293221693143
  10
-211984.96453396502
+211984.964533965
  20
 603300.629883348
  10
-211985.97813254752
+211985.9781325476
  20
-603302.1102571493
+603302.1102571494
  10
-212009.27803908862
+212009.2780390887
  20
 603285.9950864959
  10
-212007.50700493553
+212007.5070049356
  20
-603283.9306253758
+603283.930625376
  10
-212012.82007907942
+212012.8200790794
  20
 603280.9814049933
  42
@@ -8963,17 +8965,17 @@ AcDbPolyline
  20
 603283.6357056217
  10
-212033.77721509393
+212033.777215094
  20
 603292.6308380668
  42
--0.4703353762595271
+-0.4703353762595272
  10
 212030.0875806651
  20
 603305.6074290682
  10
-212040.12339367362
+212040.1233936736
  20
 603320.206090138
   0
@@ -8993,27 +8995,27 @@ AcDbPolyline
  70
 1
  10
-212081.64325588642
+212081.6432558864
  20
 603351.5066045659
  10
 212081.1556377834
  20
-603351.8565991289
+603351.856599129
  10
-212069.24788034472
+212069.2478803448
  20
 603359.3794934676
  10
-212072.17258087933
+212072.1725808794
  20
 603364.4382820098
  10
-212065.93523284612
+212065.9352328461
  20
 603368.4199080693
  10
-212060.56418275752
+212060.5641827575
  20
 603360.1104345492
  10
@@ -9025,15 +9027,15 @@ AcDbPolyline
  10
 212060.0360233841
  20
-603354.9080793624
+603354.9080793625
  10
-212030.94205160392
+212030.9420516039
  20
 603374.946128799
  42
 0.4067010086327925
  10
-212018.55079937752
+212018.5507993776
  20
 603373.5788118814
  10
@@ -9041,7 +9043,7 @@ AcDbPolyline
  20
 603426.1890646793
  10
-212058.44777558467
+212058.4477755847
  20
 603426.4585736498
  10
@@ -9049,13 +9051,13 @@ AcDbPolyline
  20
 603421.2868798478
  10
-212077.80982953342
+212077.8098295335
  20
 603438.6212058313
  10
-212122.01826639372
+212122.0182663936
  20
-603409.7801911596
+603409.7801911595
   0
 LWPOLYLINE
   5
@@ -9073,31 +9075,31 @@ AcDbPolyline
  70
 1
  10
-212081.64325588642
+212081.6432558864
  20
 603351.5066045659
  10
-212122.01826639372
+212122.0182663936
  20
-603409.7801911596
+603409.7801911595
  10
-212148.84590832592
+212148.845908326
  20
 603392.2780159328
  10
 212140.0568572707
  20
-603382.5921859356
+603382.5921859357
  10
 212134.0196378843
  20
-603375.3763062643
+603375.3763062644
  10
 212129.6359446602
  20
-603379.1310950784
+603379.1310950785
  10
-212096.94217057343
+212096.9421705734
  20
 603340.5255992936
   0
@@ -9117,11 +9119,11 @@ AcDbPolyline
  70
 1
  10
-212072.17258087933
+212072.1725808794
  20
 603364.4382820098
  10
-212069.24788034472
+212069.2478803448
  20
 603359.3794934676
  42
@@ -9131,11 +9133,11 @@ AcDbPolyline
  20
 603355.9596164362
  10
-212060.56418275752
+212060.5641827575
  20
 603360.1104345492
  10
-212065.93523284612
+212065.9352328461
  20
 603368.4199080693
   0
@@ -9155,7 +9157,7 @@ AcDbPolyline
  70
 1
  10
-212058.44777558467
+212058.4477755847
  20
 603426.4585736498
  10
@@ -9163,19 +9165,19 @@ AcDbPolyline
  20
 603426.1890646793
  10
-212018.55079937752
+212018.5507993776
  20
 603373.5788118814
  10
-211973.87916423212
+211973.8791642321
  20
 603308.3353126615
  42
 -0.3239985291821532
  10
-211958.81663797892
+211958.8166379789
  20
-603303.914004362
+603303.9140043621
  10
 211953.303477517
  20
@@ -9187,7 +9189,7 @@ AcDbPolyline
  10
 211928.241222353
  20
-603325.371163282
+603325.3711632821
  10
 211920.2350949665
  20
@@ -9195,21 +9197,21 @@ AcDbPolyline
  10
 211911.4857871689
  20
-603341.1834928963
+603341.1834928964
  10
 211902.3744681114
  20
 603349.8724949006
  10
-211893.31279004362
+211893.3127900436
  20
 603359.5701821317
  10
 211892.5062831728
  20
-603360.4703576785
+603360.4703576784
  10
-211982.15706438795
+211982.157064388
  20
 603485.646830927
   0
@@ -9231,11 +9233,11 @@ AcDbPolyline
  10
 211963.3182861956
  20
-603510.6359614301
+603510.63596143
  10
 212010.8740479847
  20
-603538.0066133466
+603538.0066133465
  42
 -0.1181992401380285
  10
@@ -9251,9 +9253,9 @@ AcDbPolyline
  20
 603518.8990047593
  10
-212014.56411923093
+212014.5641192309
  20
-603472.9563989972
+603472.9563989973
   0
 LWPOLYLINE
   5
@@ -9271,9 +9273,9 @@ AcDbPolyline
  70
 1
  10
-212014.56411923093
+212014.5641192309
  20
-603472.9563989972
+603472.9563989973
  10
 212044.1699190822
  20
@@ -9283,7 +9285,7 @@ AcDbPolyline
  20
 603500.9151146244
  10
-212040.20764656822
+212040.2076465683
  20
 603454.1014632478
   0
@@ -9303,7 +9305,7 @@ AcDbPolyline
  70
 1
  10
-212040.20764656822
+212040.2076465683
  20
 603454.1014632478
  10
@@ -9357,7 +9359,7 @@ AcDbPolyline
  10
 212113.2080054153
  20
-603425.675739411
+603425.6757394111
   0
 LWPOLYLINE
   5
@@ -10603,19 +10605,19 @@ AcDbPolyline
  20
 603430.8685400229
  10
-212179.21149588772
+212180.1120777242
  20
-603428.0569386125
+603429.1302927397
  10
-212177.7465322919
+212180.1120777242
  20
-603426.0453124722
+603429.1302927397
  10
-212167.73150505792
+212167.7315050579
  20
-603414.3745667965
+603414.3745667964
  10
-212155.26149950482
+212155.2614995048
  20
 603399.348213284
  10
@@ -10625,7 +10627,7 @@ AcDbPolyline
  10
 212113.2080054153
  20
-603425.675739411
+603425.6757394111
   0
 LWPOLYLINE
   5
@@ -11355,7 +11357,7 @@ AcDbPolyline
  20
 603389.5946037109
  10
-211837.78088127405
+211837.7808812741
  20
 603398.7993720133
  10
@@ -11367,23 +11369,23 @@ AcDbPolyline
  20
 603375.4097103492
  10
-211865.65567499932
+211865.6556749993
  20
 603360.4676331099
  10
-211878.55662504112
+211878.5566250411
  20
 603346.0683512487
  10
-211888.15470532392
+211888.154705324
  20
 603335.7966135081
  10
-211897.24862082172
+211897.2486208217
  20
 603327.1242083941
  10
-211906.59224944763
+211906.5922494477
  20
 603317.0764934813
  10
@@ -11391,19 +11393,19 @@ AcDbPolyline
  20
 603309.7472161325
  10
-211929.9459877942
+211929.9459877943
  20
 603298.4172254992
  10
-211942.42754481232
+211942.4275448124
  20
 603290.702086686
  10
 211955.3214505004
  20
-603282.3470816073
+603282.3470816072
  10
-211958.43210517042
+211958.4321051704
  20
 603280.6268505956
  10
@@ -12463,7 +12465,7 @@ AcDbPolyline
  10
 211941.9067852264
  20
-603617.3595028938
+603617.3595028939
  10
 211947.0484428426
  20
@@ -12659,9 +12661,9 @@ AcDbPolyline
  10
 211992.9541808775
  20
-603549.2188227535
+603549.2188227536
  10
-211946.31553926962
+211946.3155392697
  20
 603527.0176191846
  42
@@ -12681,11 +12683,11 @@ AcDbPolyline
  20
 603532.8350297853
  10
-211861.93593514952
+211861.9359351495
  20
-603592.9021066681
+603592.9021066682
  10
-211865.56536719232
+211865.5653671924
  20
 603594.4673760685
  10
@@ -12693,11 +12695,11 @@ AcDbPolyline
  20
 603595.2293702879
  10
-211884.11670419283
+211884.1167041929
  20
 603595.6389163035
  10
-211892.83249372852
+211892.8324937285
  20
 603595.9212278023
   0
@@ -12725,11 +12727,11 @@ AcDbPolyline
  20
 603596.8933943971
  10
-211892.83249372852
+211892.8324937285
  20
 603595.9212278023
  10
-211884.11670419283
+211884.1167041929
  20
 603595.6389163035
  10
@@ -12737,13 +12739,13 @@ AcDbPolyline
  20
 603595.2293702879
  10
-211865.56536719232
+211865.5653671924
  20
 603594.4673760685
  10
-211861.93593514952
+211861.9359351495
  20
-603592.9021066681
+603592.9021066682
  10
 211862.1836008084
  20
@@ -12755,13 +12757,13 @@ AcDbPolyline
  20
 603537.1750095166
  10
-211831.03670817942
+211831.0367081795
  20
-603550.5163278409
+603550.516327841
  10
 211823.0141824769
  20
-603564.300882706
+603564.3008827061
  10
 211792.0381898184
  20
@@ -12771,15 +12773,15 @@ AcDbPolyline
  20
 603576.3470816863
  10
-211782.43435633698
+211782.434356337
  20
 603584.6352312393
  10
-211790.90037679143
+211790.9003767914
  20
 603586.9876367851
  10
-211796.48547782592
+211796.4854778259
  20
 603588.7866042749
  10
@@ -12787,25 +12789,25 @@ AcDbPolyline
  20
 603589.6505279815
  10
-211802.8498260675
+211802.8498260676
  20
 603589.9725437579
  10
-211808.63243992723
+211808.6324399273
  20
 603590.2800767261
  10
-211812.42088000823
+211812.4208800082
  20
-603591.4176579291
+603591.417657929
  10
-211818.42147177522
+211818.4214717752
  20
 603594.3445739503
  10
-211823.09064881533
+211823.0906488153
  20
-603597.0705299485
+603597.0705299486
  10
 211825.555197742
  20
@@ -12819,15 +12821,15 @@ AcDbPolyline
  20
 603597.1450380788
  10
-211842.78882560862
+211842.7888256086
  20
 603596.9515211545
  10
-211848.80459117872
+211848.8045911787
  20
 603596.8840680323
  10
-211853.04176867031
+211853.0417686703
  20
 603596.6974743375
  10
@@ -12835,7 +12837,7 @@ AcDbPolyline
  20
 603596.1261865555
  10
-211864.99440323713
+211864.9944032372
  20
 603595.9865424858
  10
@@ -12843,7 +12845,7 @@ AcDbPolyline
  20
 603596.2463426554
  10
-211878.86337751293
+211878.863377513
  20
 603597.4063332092
  10
@@ -12851,21 +12853,21 @@ AcDbPolyline
  20
 603598.2553080925
  10
-211886.78270038893
+211886.7827003889
  20
 603598.7682324065
  10
-211887.38427131053
+211887.3842713105
  20
-603598.882560296
+603598.8825602959
  10
-211894.60309297132
+211894.6030929713
  20
-603600.2544893837
+603600.2544893835
  10
 211902.0365341113
  20
-603601.9198373063
+603601.9198373064
  10
 211904.6141203593
  20
@@ -13483,19 +13485,19 @@ AcDbPolyline
  20
 603443.5353273032
  10
-211809.96402354015
+211809.9640235401
  20
 603448.580776487
  10
-211811.95734716533
+211811.9573471653
  20
 603444.3218922344
  10
-211819.02664253573
+211819.0266425358
  20
 603432.3567987703
  10
-211828.43523561372
+211828.4352356137
  20
 603414.8256579929
  10
@@ -13503,7 +13505,7 @@ AcDbPolyline
  20
 603403.0207480735
  10
-211837.78088127405
+211837.7808812741
  20
 603398.7993720133
   0
@@ -13523,9 +13525,9 @@ AcDbPolyline
  70
 1
  10
-211831.03670817942
+211831.0367081795
  20
-603550.5163278409
+603550.516327841
  10
 211839.3067504464
  20
@@ -13547,7 +13549,7 @@ AcDbPolyline
  10
 211796.8656162176
  20
-603545.8151034577
+603545.8151034578
  10
 211792.0381898184
  20
@@ -13555,7 +13557,7 @@ AcDbPolyline
  10
 211823.0141824769
  20
-603564.300882706
+603564.3008827061
   0
 LWPOLYLINE
   5
@@ -13637,7 +13639,7 @@ AcDbPolyline
  70
 1
  10
-211809.96402354015
+211809.9640235401
  20
 603448.580776487
  10
@@ -13683,11 +13685,11 @@ AcDbPolyline
  20
 603490.0973973713
  10
-211798.70538607612
+211798.7053860761
  20
 603474.2638105988
  10
-211804.42620707772
+211804.4262070776
  20
 603460.4127334394
   0
@@ -14211,29 +14213,29 @@ AcDbPolyline
  70
 1
  10
-211982.15706438795
+211982.157064388
  20
 603485.646830927
  10
 211892.5062831728
  20
-603360.4703576785
+603360.4703576784
  10
 211881.042395325
  20
-603373.2656752181
+603373.2656752182
  10
-211870.06112397512
+211870.0611239751
  20
 603387.5014753835
  10
-211861.29519020312
+211861.2951902031
  20
 603399.2405912292
  10
 211852.1994513979
  20
-603413.3435093549
+603413.343509355
  10
 211845.9692147432
  20
@@ -14243,11 +14245,11 @@ AcDbPolyline
  20
 603442.176526277
  10
-211829.66466246682
+211829.6646624668
  20
 603453.6691888762
  10
-211822.73566288862
+211822.7356628886
  20
 603468.4735120762
  10
@@ -14255,19 +14257,19 @@ AcDbPolyline
  20
 603481.262492675
  10
-211812.41227656382
+211812.4122765639
  20
 603496.3296288187
  10
-211811.28667632712
+211811.2866763271
  20
 603499.8328121987
  42
 -0.4323963360924693
  10
-211829.85303969763
+211829.8530396977
  20
-603524.1144053029
+603524.114405303
  42
 -0.0470687572928995
  10
@@ -14277,7 +14279,7 @@ AcDbPolyline
  10
 211895.3595132247
  20
-603507.9054464353
+603507.9054464354
  42
 0.1378631192273436
  10
@@ -14349,7 +14351,7 @@ scellno
 100
 AcDbText
  10
-212008.6251865803
+212008.6251865802
  20
 603305.2628640324
  30
@@ -14593,7 +14595,7 @@ AcDbText
  10
 212025.9395393096
  20
-603253.6641389753
+603253.6641389754
  30
 0.0
  40
@@ -14607,7 +14609,7 @@ mvt-nos
  11
 212025.9395393096
  21
-603253.6641389753
+603253.6641389754
  31
 0.0
 100
@@ -14625,7 +14627,7 @@ CODE
  11
 212025.9395393096
  21
-603253.6641389753
+603253.6641389754
  31
 0.0
   0
@@ -14641,9 +14643,9 @@ scellno
 100
 AcDbText
  10
-212020.9753488632
+212020.6686394734
  20
-603250.6975951002
+603250.6975951003
  30
 0.0
  40
@@ -14657,7 +14659,7 @@ mvt-nos
  11
 212026.439590716
  21
-603250.6975951002
+603250.6975951003
  31
 0.0
 100
@@ -14675,7 +14677,7 @@ AREA
  11
 212026.439590716
  21
-603250.6975951002
+603250.6975951003
  31
 0.0
   0
@@ -14733,7 +14735,7 @@ scellno
 100
 AcDbText
  10
-212041.1107789865
+212041.1107789866
  20
 603309.559422095
  30
@@ -14833,7 +14835,7 @@ scellno
 100
 AcDbText
  10
-212039.50838471
+212039.4498592647
  20
 603302.0071008131
  30
@@ -14899,7 +14901,7 @@ CELLNO
  10
 212076.8269819941
  20
-603395.0388186683
+603395.0388186682
  30
 0.0
 1001
@@ -14941,7 +14943,7 @@ mvt-nos
  11
 212076.8269819941
  21
-603395.0388186683
+603395.0388186682
  31
 0.0
 100
@@ -14959,7 +14961,7 @@ CELLNO
  11
 212076.8269819941
  21
-603395.0388186683
+603395.0388186682
  31
 0.0
   0
@@ -14977,7 +14979,7 @@ AcDbText
  10
 212076.5404021903
  20
-603389.0388186682
+603389.0388186683
  30
 0.0
  40
@@ -14991,7 +14993,7 @@ mvt-nos
  11
 212076.5404021903
  21
-603389.0388186682
+603389.0388186683
  31
 0.0
 100
@@ -15009,7 +15011,7 @@ CODE
  11
 212076.5404021903
  21
-603389.0388186682
+603389.0388186683
  31
 0.0
   0
@@ -15117,9 +15119,9 @@ scellno
 100
 AcDbText
  10
-212122.9129964372
+212122.9129964373
  20
-603390.188930017
+603390.1889300171
  30
 0.0
  40
@@ -15169,7 +15171,7 @@ AcDbText
  10
 212125.2717554863
  20
-603385.688930017
+603385.6889300171
  30
 0.0
  40
@@ -15183,7 +15185,7 @@ mvt-nos
  11
 212125.2717554863
  21
-603385.688930017
+603385.6889300171
  31
 0.0
 100
@@ -15201,7 +15203,7 @@ CODE
  11
 212125.2717554863
  21
-603385.688930017
+603385.6889300171
  31
 0.0
   0
@@ -15217,9 +15219,9 @@ scellno
 100
 AcDbText
  10
-212121.1724118776
+212121.1724118777
  20
-603382.7223861417
+603382.7223861418
  30
 0.0
  40
@@ -15233,7 +15235,7 @@ mvt-nos
  11
 212125.7718068927
  21
-603382.7223861417
+603382.7223861418
  31
 0.0
 100
@@ -15251,7 +15253,7 @@ AREA
  11
 212125.7718068927
  21
-603382.7223861417
+603382.7223861418
  31
 0.0
   0
@@ -15411,7 +15413,7 @@ AcDbText
  10
 212061.2946453679
  20
-603352.9556880238
+603352.9556880239
  30
 0.0
  40
@@ -15425,7 +15427,7 @@ mvt-nos
  11
 212066.5088080381
  21
-603352.9556880238
+603352.9556880239
  31
 0.0
 100
@@ -15443,7 +15445,7 @@ AREA
  11
 212066.5088080381
  21
-603352.9556880238
+603352.9556880239
  31
 0.0
   0
@@ -15501,9 +15503,9 @@ scellno
 100
 AcDbText
  10
-211954.1693664352
+211954.1693664353
  20
-603364.1342838277
+603364.1342838279
  30
 0.0
  40
@@ -15553,7 +15555,7 @@ AcDbText
  10
 211954.8058751995
  20
-603359.634029921
+603359.6340299211
  30
 0.0
  40
@@ -15567,7 +15569,7 @@ mvt-nos
  11
 211954.8058751995
  21
-603359.634029921
+603359.6340299211
  31
 0.0
 100
@@ -15585,7 +15587,7 @@ CODE
  11
 211954.8058751995
  21
-603359.634029921
+603359.6340299211
  31
 0.0
   0
@@ -15793,7 +15795,7 @@ scellno
 100
 AcDbText
  10
-212003.8937036429
+212003.945710505
  20
 603500.2909567655
  30
@@ -15985,7 +15987,7 @@ scellno
 100
 AcDbText
  10
-212045.0288153458
+212044.6210515382
  20
 603487.3906218191
  30
@@ -16177,7 +16179,7 @@ scellno
 100
 AcDbText
  10
-212071.8874483966
+212071.4899119825
  20
 603470.4356443691
  30
@@ -16369,7 +16371,7 @@ scellno
 100
 AcDbText
  10
-212104.7225672393
+212105.4277047695
  20
 603444.1183911001
  30
@@ -16461,9 +16463,9 @@ scellno
 100
 AcDbText
  10
-212155.1965644493
+212155.1965644494
  20
-602882.110716528
+602882.1107165279
  30
 0.0
  40
@@ -16845,7 +16847,7 @@ scellno
 100
 AcDbText
  10
-212149.905580406
+212149.9055804059
  20
 603423.9510216966
  30
@@ -16945,7 +16947,7 @@ scellno
 100
 AcDbText
  10
-212146.4364736658
+212145.7200802872
  20
 603416.4819734257
  30
@@ -17137,7 +17139,7 @@ scellno
 100
 AcDbText
  10
-212116.0483452584
+212116.0483452585
  20
 603496.1704522233
  30
@@ -17331,7 +17333,7 @@ AcDbText
  10
 212159.0846348381
  20
-603467.9748098959
+603467.974809896
  30
 0.0
  40
@@ -17345,7 +17347,7 @@ mvt-nos
  11
 212163.1455600012
  21
-603467.9748098959
+603467.974809896
  31
 0.0
 100
@@ -17363,7 +17365,7 @@ AREA
  11
 212163.1455600012
  21
-603467.9748098959
+603467.974809896
  31
 0.0
   0
@@ -17613,7 +17615,7 @@ scellno
 100
 AcDbText
  10
-212050.936902761
+212050.9369027609
  20
 603549.7218132999
  30
@@ -18163,7 +18165,7 @@ CELLNO
  10
 212029.2750573082
  20
-603229.7657404693
+603229.7657404694
  30
 0.0
 1001
@@ -18191,7 +18193,7 @@ AcDbText
  10
 212027.8234413107
  20
-603228.2774468897
+603228.2774468898
  30
 0.0
  40
@@ -18205,7 +18207,7 @@ mvt-nos
  11
 212029.2750573082
  21
-603229.7657404693
+603229.7657404694
  31
 0.0
 100
@@ -18223,7 +18225,7 @@ CELLNO
  11
 212029.2750573082
  21
-603229.7657404693
+603229.7657404694
  31
 0.0
   0
@@ -18289,7 +18291,7 @@ scellno
 100
 AcDbText
  10
-212025.5517398752
+212024.4372239843
  20
 603220.799196594
  30
@@ -18433,7 +18435,7 @@ AcDbText
  10
 212142.9450051825
  20
-602917.7222697064
+602917.7222697065
  30
 0.0
  40
@@ -18447,7 +18449,7 @@ mvt-nos
  11
 212142.9450051825
  21
-602917.7222697064
+602917.7222697065
  31
 0.0
 100
@@ -18465,7 +18467,7 @@ CODE
  11
 212142.9450051825
  21
-602917.7222697064
+602917.7222697065
  31
 0.0
   0
@@ -19727,7 +19729,7 @@ AcDbText
  10
 212077.4329463598
  20
-603591.7519419495
+603591.7519419496
  30
 0.0
  40
@@ -19919,7 +19921,7 @@ AcDbText
  10
 212074.0270984061
  20
-603052.842419058
+603052.8424190581
  30
 0.0
  40
@@ -20493,7 +20495,7 @@ scellno
 100
 AcDbText
  10
-211998.654176353
+211998.6541763531
  20
 602937.4140665676
  30
@@ -21171,7 +21173,7 @@ AcDbText
  10
 211971.0856661913
  20
-603008.6817868924
+603008.6817868925
  30
 0.0
  40
@@ -21185,7 +21187,7 @@ mvt-nos
  11
 211976.1184297665
  21
-603008.6817868924
+603008.6817868925
  31
 0.0
 100
@@ -21203,7 +21205,7 @@ AREA
  11
 211976.1184297665
  21
-603008.6817868924
+603008.6817868925
  31
 0.0
   0
@@ -21261,7 +21263,7 @@ scellno
 100
 AcDbText
  10
-212006.3849318745
+212006.3849318746
  20
 603104.8105392959
  30
@@ -21645,9 +21647,9 @@ scellno
 100
 AcDbText
  10
-211991.8767392013
+211991.8767392014
  20
-603188.0010822657
+603188.0010822659
  30
 0.0
  40
@@ -21939,7 +21941,7 @@ AcDbText
  10
 211960.622355314
  20
-603208.2021404501
+603208.2021404502
  30
 0.0
  40
@@ -21953,7 +21955,7 @@ mvt-nos
  11
 211965.0672451621
  21
-603208.2021404501
+603208.2021404502
  31
 0.0
 100
@@ -21971,7 +21973,7 @@ AREA
  11
 211965.0672451621
  21
-603208.2021404501
+603208.2021404502
  31
 0.0
   0
@@ -22465,7 +22467,7 @@ AcDbText
  10
 212048.2407364864
  20
-603656.2807719181
+603656.2807719182
  30
 0.0
  40
@@ -22479,7 +22481,7 @@ mvt-nos
  11
 212048.2407364864
  21
-603656.2807719181
+603656.2807719182
  31
 0.0
 100
@@ -22497,7 +22499,7 @@ CODE
  11
 212048.2407364864
  21
-603656.2807719181
+603656.2807719182
  31
 0.0
   0
@@ -22705,7 +22707,7 @@ scellno
 100
 AcDbText
  10
-211900.8300653534
+211901.5611632819
  20
 603550.9486212982
  30
@@ -22897,7 +22899,7 @@ scellno
 100
 AcDbText
  10
-211837.2936452804
+211837.3144786137
  20
 603567.9706551442
  30
@@ -22911,7 +22913,7 @@ mvt-nos
  72
 1
  11
-211841.8346748723
+211841.8346748724
  21
 603567.9706551442
  31
@@ -22929,7 +22931,7 @@ AREA
  72
 0
  11
-211841.8346748723
+211841.8346748724
  21
 603567.9706551442
  31
@@ -23373,7 +23375,7 @@ scellno
 100
 AcDbText
  10
-211899.9934335094
+211899.9934335095
  20
 603267.2067858282
  30
@@ -23665,7 +23667,7 @@ scellno
 100
 AcDbText
  10
-211868.2003766907
+211868.2003766908
  20
 603287.084898049
  30
@@ -23757,7 +23759,7 @@ scellno
 100
 AcDbText
  10
-211987.1611177273
+211987.1611177274
  20
 603596.4213124149
  30
@@ -23857,7 +23859,7 @@ scellno
 100
 AcDbText
  10
-211983.7735927806
+211983.7735927807
  20
 603588.8849669078
  30
@@ -23949,9 +23951,9 @@ scellno
 100
 AcDbText
  10
-211893.7890876709
+211893.789087671
  20
-603156.0391234596
+603156.0391234598
  30
 0.0
  40
@@ -24191,7 +24193,7 @@ scellno
 100
 AcDbText
  10
-211869.0853320153
+211869.0853320154
  20
 603181.5796125171
  30
@@ -24205,7 +24207,7 @@ mvt-nos
  72
 1
  11
-211869.0853320153
+211869.0853320154
  21
 603181.5796125171
  31
@@ -24223,7 +24225,7 @@ CODE
  72
 0
  11
-211869.0853320153
+211869.0853320154
  21
 603181.5796125171
  31
@@ -24333,7 +24335,7 @@ scellno
 100
 AcDbText
  10
-211842.1984837926
+211842.1984837927
  20
 603217.4207533625
  30
@@ -24691,7 +24693,7 @@ CELLNO
  10
 211816.4141906702
  20
-603247.5483134675
+603247.5483134676
  30
 0.0
 1001
@@ -24719,7 +24721,7 @@ AcDbText
  10
 211814.9141906702
  20
-603246.0483134674
+603246.0483134675
  30
 0.0
  40
@@ -24733,7 +24735,7 @@ mvt-nos
  11
 211816.4141906702
  21
-603247.5483134675
+603247.5483134676
  31
 0.0
 100
@@ -24751,7 +24753,7 @@ CELLNO
  11
 211816.4141906702
  21
-603247.5483134675
+603247.5483134676
  31
 0.0
   0
@@ -24817,7 +24819,7 @@ scellno
 100
 AcDbText
  10
-211811.9563864797
+211811.9563864798
  20
 603238.5817695922
  30
@@ -24909,7 +24911,7 @@ scellno
 100
 AcDbText
  10
-211820.5959224661
+211820.5959224662
  20
 603355.8621385106
  30
@@ -25201,7 +25203,7 @@ scellno
 100
 AcDbText
  10
-211804.937852708
+211804.9483174582
  20
 603398.7389888967
  30
@@ -25393,7 +25395,7 @@ scellno
 100
 AcDbText
  10
-211810.1401245967
+211810.1401245966
  20
 603541.0791657559
  30
@@ -25485,7 +25487,7 @@ scellno
 100
 AcDbText
  10
-211789.2072811568
+211789.2072811567
  20
 603292.030128499
  30
@@ -25585,7 +25587,7 @@ scellno
 100
 AcDbText
  10
-211787.0782475518
+211787.0782475519
  20
 603284.5610802282
  30
@@ -25599,7 +25601,7 @@ mvt-nos
  72
 1
  11
-211791.5554829567
+211791.5554829568
  21
 603284.5610802282
  31
@@ -25617,7 +25619,7 @@ AREA
  72
 0
  11
-211791.5554829567
+211791.5554829568
  21
 603284.5610802282
  31
@@ -25651,7 +25653,7 @@ CELLNO
  10
 211790.9283062747
  20
-603459.8295664038
+603459.8295664039
  30
 0.0
 1001
@@ -25679,7 +25681,7 @@ AcDbText
  10
 211788.7814597427
  20
-603458.4153438103
+603458.4153438106
  30
 0.0
  40
@@ -25693,7 +25695,7 @@ mvt-nos
  11
 211790.9283062747
  21
-603459.8295664038
+603459.8295664039
  31
 0.0
 100
@@ -25711,7 +25713,7 @@ CELLNO
  11
 211790.9283062747
  21
-603459.8295664038
+603459.8295664039
  31
 0.0
   0
@@ -25777,7 +25779,7 @@ scellno
 100
 AcDbText
  10
-211786.6018072168
+211786.4832522196
  20
 603450.8630225285
  30
@@ -26061,7 +26063,7 @@ scellno
 100
 AcDbText
  10
-211752.3694199434
+211752.3694199435
  20
 603373.4803167442
  30
@@ -26497,7 +26499,7 @@ AcDbText
  10
 211744.7970481757
  20
-603409.0204367472
+603409.0204367473
  30
 0.0
  40
@@ -26511,7 +26513,7 @@ mvt-nos
  11
 211744.7970481757
  21
-603409.0204367472
+603409.0204367473
  31
 0.0
 100
@@ -26529,7 +26531,7 @@ CODE
  11
 211744.7970481757
  21
-603409.0204367472
+603409.0204367473
  31
 0.0
   0
@@ -26609,7 +26611,7 @@ AcDbBlockReference
   2
 CELLNO
  10
-211892.1533581476
+211892.1533581477
  20
 603453.240090198
  30
@@ -26651,7 +26653,7 @@ mvt-nos
  72
 4
  11
-211892.1533581476
+211892.1533581477
  21
 603453.240090198
  31
@@ -26669,7 +26671,7 @@ CELLNO
  72
 0
  11
-211892.1533581476
+211892.1533581477
  21
 603453.240090198
  31
@@ -26737,9 +26739,9 @@ scellno
 100
 AcDbText
  10
-211887.3889140153
+211887.3761891798
  20
-603444.2735463228
+603444.273546323
  30
 0.0
  40
@@ -26753,7 +26755,7 @@ mvt-nos
  11
 211892.3668297501
  21
-603444.2735463228
+603444.273546323
  31
 0.0
 100
@@ -26771,7 +26773,7 @@ AREA
  11
 211892.3668297501
  21
-603444.2735463228
+603444.273546323
  31
 0.0
   0
@@ -26784,28 +26786,6 @@ SEQEND
 AcDbEntity
   8
 scellno
-  0
-INSERT
-  5
-16CD
-330
-1F
-100
-AcDbEntity
-  8
-0
- 60
-1
-100
-AcDbBlockReference
-  2
-TR_CONF
- 10
-0.0
- 20
-0.0
- 30
-0.0
   0
 CIRCLE
   5
@@ -27041,7 +27021,7 @@ AcDbCircle
  10
 211780.6
  20
-603443.54
+603443.5400000002
  30
 0.0
  40
@@ -27101,7 +27081,7 @@ AcDbCircle
  10
 212046.54
  20
-603277.51
+603277.5100000001
  30
 0.0
  40
@@ -27126,6 +27106,852 @@ AcDbCircle
 0.0
  40
 1.0
+  0
+LINE
+  5
+1CA7
+330
+1F
+100
+AcDbEntity
+  8
+PCELL
+100
+AcDbLine
+ 10
+212148.845908326
+ 20
+603392.2780159328
+ 30
+0.0
+ 11
+212154.2866591101
+ 21
+603398.2739063676
+ 31
+0.0
+  0
+INSERT
+  5
+1CA9
+330
+1F
+100
+AcDbEntity
+  8
+scellno
+100
+AcDbBlockReference
+ 66
+1
+  2
+CELLNO
+ 10
+212076.5064542771
+ 20
+603441.8865431447
+ 30
+0.0
+1001
+PIT_ANT
+1070
+1777
+1071
+0
+1000
+* CELLNO * * * 1
+1040
+1.0
+  0
+ATTRIB
+  5
+1CAA
+330
+1CA9
+100
+AcDbEntity
+  8
+scellno
+100
+AcDbText
+ 10
+212073.0926842545
+ 20
+603440.425930959
+ 30
+0.0
+ 40
+3.0
+  1
+503
+  7
+mvt-nos
+ 72
+4
+ 11
+212076.5064542771
+ 21
+603441.8865431447
+ 31
+0.0
+100
+AcDbAttribute
+  2
+CELLNO
+ 70
+0
+280
+1
+ 71
+1
+ 72
+0
+ 11
+212076.5064542771
+ 21
+603441.8865431447
+ 31
+0.0
+  0
+ATTRIB
+  5
+1CAB
+330
+1CA9
+100
+AcDbEntity
+  8
+scellno
+100
+AcDbText
+ 10
+212076.2198744733
+ 20
+603435.8865431447
+ 30
+0.0
+ 40
+2.5
+  1
+
+  7
+mvt-nos
+ 72
+1
+ 11
+212076.2198744733
+ 21
+603435.8865431447
+ 31
+0.0
+100
+AcDbAttribute
+  2
+CODE
+ 70
+1
+280
+1
+ 71
+1
+ 72
+0
+ 11
+212076.2198744733
+ 21
+603435.8865431447
+ 31
+0.0
+  0
+ATTRIB
+  5
+1CAC
+330
+1CA9
+100
+AcDbEntity
+  8
+scellno
+100
+AcDbText
+ 10
+212076.7199258797
+ 20
+603432.9199992694
+ 30
+0.0
+ 40
+2.5
+  1
+2.5988
+  7
+mvt-nos
+ 72
+1
+ 11
+212076.7199258797
+ 21
+603432.9199992694
+ 31
+0.0
+100
+AcDbAttribute
+  2
+AREA
+ 70
+1
+280
+1
+ 71
+1
+ 72
+0
+ 11
+212076.7199258797
+ 21
+603432.9199992694
+ 31
+0.0
+  0
+SEQEND
+  5
+1CAD
+330
+1F
+100
+AcDbEntity
+  8
+scellno
+  0
+INSERT
+  5
+1CAE
+330
+1F
+100
+AcDbEntity
+  8
+0
+ 60
+1
+100
+AcDbBlockReference
+  2
+TR_CONF
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+LWPOLYLINE
+  5
+1D06
+330
+1F
+100
+AcDbEntity
+  8
+PCELL
+100
+AcDbPolyline
+ 90
+20
+ 70
+1
+ 10
+211948.5886714436
+ 20
+603511.690036539
+ 10
+212001.8572791194
+ 20
+603536.729680067
+ 10
+212007.9189593672
+ 20
+603538.4327457903
+ 10
+212008.66399806718
+ 20
+603538.3731814584
+ 10
+212009.4055206333
+ 20
+603538.2822092078
+ 10
+212010.14253472074
+ 20
+603538.1599721374
+ 10
+212010.8740479847
+ 20
+603538.0066133465
+ 10
+211963.3182861956
+ 20
+603510.63596143
+ 10
+212014.5641192309
+ 20
+603472.9563989973
+ 10
+212040.2076465683
+ 20
+603454.1014632478
+ 10
+212064.4250580128
+ 20
+603436.29510881
+ 10
+212074.8611885338
+ 20
+603451.2552796203
+ 10
+212113.2080054153
+ 20
+603425.6757394111
+ 10
+212154.2866591101
+ 20
+603398.2739063676
+ 10
+212148.845908326
+ 20
+603392.2780159328
+ 10
+212122.0182663936
+ 20
+603409.7801911595
+ 10
+212077.8098295335
+ 20
+603438.6212058313
+ 10
+212065.1138309205
+ 20
+603421.2868798478
+ 10
+212058.4477755847
+ 20
+603426.4585736498
+ 10
+211982.157064388
+ 20
+603485.646830927
+  0
+TEXT
+  5
+1D07
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+211912.47
+ 20
+603605.84
+ 30
+0.0
+ 40
+1.5
+  1
+1
+ 11
+211912.47
+ 21
+603605.84
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D08
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+211916.34000000003
+ 20
+603598.09
+ 30
+0.0
+ 40
+1.5
+  1
+2
+ 11
+211916.34000000003
+ 21
+603598.09
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D09
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+211764.54
+ 20
+603583.5299999999
+ 30
+0.0
+ 40
+1.5
+  1
+3
+ 11
+211764.54
+ 21
+603583.5299999999
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D0A
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+211787.84000000003
+ 20
+603577.5499999999
+ 30
+0.0
+ 40
+1.5
+  1
+4
+ 11
+211787.84000000003
+ 21
+603577.5499999999
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D0B
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+211991.88
+ 20
+603575.2799999999
+ 30
+0.0
+ 40
+1.5
+  1
+5
+ 11
+211991.88
+ 21
+603575.2799999999
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D0C
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+212020.26
+ 20
+603536.6799999999
+ 30
+0.0
+ 40
+1.5
+  1
+6
+ 11
+212020.26
+ 21
+603536.6799999999
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D0D
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+212045.37000000002
+ 20
+603520.1
+ 30
+0.0
+ 40
+1.5
+  1
+7
+ 11
+212045.37000000002
+ 21
+603520.1
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D0E
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+211792.08000000002
+ 20
+603502.7999999999
+ 30
+0.0
+ 40
+1.5
+  1
+8
+ 11
+211792.08000000002
+ 21
+603502.7999999999
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D0F
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+212072.6
+ 20
+603502.12
+ 30
+0.0
+ 40
+1.5
+  1
+9
+ 11
+212072.6
+ 21
+603502.12
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D10
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+212098.95
+ 20
+603484.72
+ 30
+0.0
+ 40
+1.5
+  1
+10
+ 11
+212098.95
+ 21
+603484.72
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D11
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+212137.69
+ 20
+603459.13
+ 30
+0.0
+ 40
+1.5
+  1
+11
+ 11
+212137.69
+ 21
+603459.13
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D12
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+211781.80000000002
+ 20
+603444.74
+ 30
+0.0
+ 40
+1.5
+  1
+12
+ 11
+211781.80000000002
+ 21
+603444.74
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D13
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+212178.68000000002
+ 20
+603432.07
+ 30
+0.0
+ 40
+1.5
+  1
+13
+ 11
+212178.68000000002
+ 21
+603432.07
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D14
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+211821.76
+ 20
+603390.7899999999
+ 30
+0.0
+ 40
+1.5
+  1
+14
+ 11
+211821.76
+ 21
+603390.7899999999
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D15
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+212047.74000000002
+ 20
+603278.71
+ 30
+0.0
+ 40
+1.5
+  1
+15
+ 11
+212047.74000000002
+ 21
+603278.71
+ 31
+0.0
+100
+AcDbText
+  0
+TEXT
+  5
+1D16
+330
+1F
+100
+AcDbEntity
+  8
+CHECK-MAABAR
+ 62
+1
+100
+AcDbText
+ 10
+212004.61000000002
+ 20
+603256.3099999999
+ 30
+0.0
+ 40
+1.5
+  1
+16
+ 11
+212004.61000000002
+ 21
+603256.3099999999
+ 31
+0.0
+100
+AcDbText
   0
 ENDSEC
   0
@@ -27205,7 +28031,7 @@ ACAD_VISUALSTYLE
   3
 ACDB_RECOMPOSE_DATA
 350
-1A25
+1CC2
   3
 AcDbVariableDictionary
 350
@@ -27965,7 +28791,7 @@ X-Ray
   0
 XRECORD
   5
-1A25
+1CC2
 102
 {ACAD_REACTORS
 330
@@ -28055,7 +28881,7 @@ AcDbDictionary
   3
 _CurrQry
 350
-1A22
+1CBF
   0
 DICTIONARY
   5
@@ -28072,10 +28898,6 @@ C
 AcDbDictionary
 281
 1
-  3
-Standard
-350
-180E
   0
 DICTIONARY
   5
@@ -28092,38 +28914,6 @@ C
 AcDbDictionary
 281
 1
-  3
-Elevation
-350
-1808
-  3
-Model
-350
-1805
-  3
-Model High Detail
-350
-180C
-  3
-Model Low Detail
-350
-180B
-  3
-Plan
-350
-1806
-  3
-Plan High Detail
-350
-180A
-  3
-Plan Low Detail
-350
-1809
-  3
-Reflected
-350
-1807
   0
 DICTIONARY
   5
@@ -28140,602 +28930,6 @@ C
 AcDbDictionary
 281
 1
-  3
-AecDbDispRep2dSection
-350
-16E6
-  3
-AecDbDispRepAnchor
-350
-16E8
-  3
-AecDbDispRepAnchorBubToGrid
-350
-176E
-  3
-AecDbDispRepAnchorBubToGridMdl
-350
-177D
-  3
-AecDbDispRepAnchorBubToGridRcp
-350
-176C
-  3
-AecDbDispRepAnchorEntToNode
-350
-16E1
-  3
-AecDbDispRepAnchorExtendedTagToEnt
-350
-16E9
-  3
-AecDbDispRepAnchorTagToEnt
-350
-16E4
-  3
-AecDbDispRepBdgElevLineModel
-350
-1773
-  3
-AecDbDispRepBdgElevLinePlan
-350
-170A
-  3
-AecDbDispRepBdgElevLinePlan100
-350
-1712
-  3
-AecDbDispRepBdgElevLinePlan50
-350
-1749
-  3
-AecDbDispRepBdgElevLineRcp
-350
-1775
-  3
-AecDbDispRepBdgSectionLineModel
-350
-1777
-  3
-AecDbDispRepBdgSectionLinePlan
-350
-1710
-  3
-AecDbDispRepBdgSectionLinePlan100
-350
-1714
-  3
-AecDbDispRepBdgSectionLinePlan50
-350
-1743
-  3
-AecDbDispRepBdgSectionLineRcp
-350
-1770
-  3
-AecDbDispRepBdgSectionModel
-350
-1772
-  3
-AecDbDispRepBdgSectionSubDiv
-350
-1779
-  3
-AecDbDispRepCeilingGrid
-350
-171C
-  3
-AecDbDispRepCeilingGridModel
-350
-177B
-  3
-AecDbDispRepCeilingGridPlan100
-350
-1718
-  3
-AecDbDispRepCeilingGridPlan50
-350
-1747
-  3
-AecDbDispRepCeilingGridRcp
-350
-1793
-  3
-AecDbDispRepClipVolModel
-350
-16EB
-  3
-AecDbDispRepClipVolPlan
-350
-16EF
-  3
-AecDbDispRepClipVolResSubDiv
-350
-16F9
-  3
-AecDbDispRepClipVolResult
-350
-16FB
-  3
-AecDbDispRepColumnGrid
-350
-171A
-  3
-AecDbDispRepColumnGridModel
-350
-1785
-  3
-AecDbDispRepColumnGridPlan100
-350
-170E
-  3
-AecDbDispRepColumnGridPlan50
-350
-173B
-  3
-AecDbDispRepColumnGridRcp
-350
-178F
-  3
-AecDbDispRepCurtainWallLayoutModel
-350
-1787
-  3
-AecDbDispRepCurtainWallLayoutPlan
-350
-170C
-  3
-AecDbDispRepCurtainWallLayoutPlan100
-350
-1716
-  3
-AecDbDispRepCurtainWallLayoutPlan50
-350
-173D
-  3
-AecDbDispRepCurtainWallUnitModel
-350
-178D
-  3
-AecDbDispRepCurtainWallUnitPlan
-350
-1721
-  3
-AecDbDispRepCurtainWallUnitPlan100
-350
-1727
-  3
-AecDbDispRepCurtainWallUnitPlan50
-350
-1741
-  3
-AecDbDispRepDimGroupPlan
-350
-1789
-  3
-AecDbDispRepDimGroupPlan100
-350
-177F
-  3
-AecDbDispRepDimGroupPlan50
-350
-1781
-  3
-AecDbDispRepDisplayTheme
-350
-16ED
-  3
-AecDbDispRepDoorElev
-350
-1783
-  3
-AecDbDispRepDoorModel
-350
-178B
-  3
-AecDbDispRepDoorNominal
-350
-1797
-  3
-AecDbDispRepDoorPlan
-350
-1791
-  3
-AecDbDispRepDoorPlan50
-350
-17A7
-  3
-AecDbDispRepDoorPlanHekto
-350
-179B
-  3
-AecDbDispRepDoorRcp
-350
-1799
-  3
-AecDbDispRepDoorThresholdPlan
-350
-179D
-  3
-AecDbDispRepDoorThresholdSymbolPlan
-350
-1795
-  3
-AecDbDispRepEditInPlaceProfile
-350
-16F7
-  3
-AecDbDispRepEntRef
-350
-16F1
-  3
-AecDbDispRepLayoutCurve
-350
-16F5
-  3
-AecDbDispRepLayoutGrid2d
-350
-16F3
-  3
-AecDbDispRepLayoutGrid3d
-350
-16FC
-  3
-AecDbDispRepMaskBlockRef
-350
-1702
-  3
-AecDbDispRepMaskBlockRefRcp
-350
-17A1
-  3
-AecDbDispRepMassElemModel
-350
-1802
-  3
-AecDbDispRepMassElemPlan100
-350
-17A5
-  3
-AecDbDispRepMassElemPlan50
-350
-179F
-  3
-AecDbDispRepMassElemRcp
-350
-17A3
-  3
-AecDbDispRepMassElemSchem
-350
-17FC
-  3
-AecDbDispRepMassGroupModel
-350
-17FE
-  3
-AecDbDispRepMassGroupPlan
-350
-1800
-  3
-AecDbDispRepMassGroupPlan100
-350
-17A9
-  3
-AecDbDispRepMassGroupPlan50
-350
-17B2
-  3
-AecDbDispRepMassGroupRcp
-350
-17AC
-  3
-AecDbDispRepMaterial
-350
-1700
-  3
-AecDbDispRepMvBlockRef
-350
-1704
-  3
-AecDbDispRepMvBlockRefModel
-350
-1707
-  3
-AecDbDispRepMvBlockRefPlan100
-350
-1720
-  3
-AecDbDispRepMvBlockRefPlan50
-350
-1755
-  3
-AecDbDispRepMvBlockRefRcp
-350
-17AB
-  3
-AecDbDispRepOpening
-350
-17B0
-  3
-AecDbDispRepOpeningModel
-350
-17B4
-  3
-AecDbDispRepOpeningPlan100
-350
-17AE
-  3
-AecDbDispRepOpeningPlan50
-350
-17B6
-  3
-AecDbDispRepOpeningPlanReflected
-350
-17B8
-  3
-AecDbDispRepOpeningSillPlan
-350
-17BA
-  3
-AecDbDispRepPolygonModel
-350
-16FE
-  3
-AecDbDispRepPolygonTrueColour
-350
-1705
-  3
-AecDbDispRepRailingModel
-350
-17CA
-  3
-AecDbDispRepRailingPlan
-350
-17BE
-  3
-AecDbDispRepRailingPlan100
-350
-17C0
-  3
-AecDbDispRepRailingPlan50
-350
-17BC
-  3
-AecDbDispRepRoofModel
-350
-17C8
-  3
-AecDbDispRepRoofPlan
-350
-172D
-  3
-AecDbDispRepRoofPlan100
-350
-171E
-  3
-AecDbDispRepRoofPlan50
-350
-1756
-  3
-AecDbDispRepRoofRcp
-350
-17C2
-  3
-AecDbDispRepRoofSlabModel
-350
-17C6
-  3
-AecDbDispRepRoofSlabPlan
-350
-1725
-  3
-AecDbDispRepRoofSlabPlan100
-350
-1729
-  3
-AecDbDispRepRoofSlabPlan50
-350
-1758
-  3
-AecDbDispRepScheduleTable
-350
-176A
-  3
-AecDbDispRepSlabModel
-350
-17C4
-  3
-AecDbDispRepSlabPlan
-350
-1723
-  3
-AecDbDispRepSlabPlan100
-350
-172B
-  3
-AecDbDispRepSlabPlan50
-350
-1751
-  3
-AecDbDispRepSlice
-350
-1708
-  3
-AecDbDispRepSpaceDecomposed
-350
-17CC
-  3
-AecDbDispRepSpaceModel
-350
-17D4
-  3
-AecDbDispRepSpacePlan
-350
-1731
-  3
-AecDbDispRepSpacePlan100
-350
-1737
-  3
-AecDbDispRepSpacePlan50
-350
-174F
-  3
-AecDbDispRepSpaceRcp
-350
-17D6
-  3
-AecDbDispRepSpaceVolume
-350
-17CE
-  3
-AecDbDispRepStairModel
-350
-17DA
-  3
-AecDbDispRepStairPlan
-350
-17D0
-  3
-AecDbDispRepStairPlan100
-350
-17D2
-  3
-AecDbDispRepStairPlan50
-350
-17D8
-  3
-AecDbDispRepStairPlanOverlapping
-350
-17DC
-  3
-AecDbDispRepStairRcp
-350
-17E0
-  3
-AecDbDispRepWallGraph
-350
-17EA
-  3
-AecDbDispRepWallModel
-350
-17DE
-  3
-AecDbDispRepWallPlan
-350
-1733
-  3
-AecDbDispRepWallPlan100
-350
-1735
-  3
-AecDbDispRepWallPlan50
-350
-1753
-  3
-AecDbDispRepWallRcp
-350
-17E8
-  3
-AecDbDispRepWallSchem
-350
-17E2
-  3
-AecDbDispRepWindowAssemblyModel
-350
-17EC
-  3
-AecDbDispRepWindowAssemblyPlan
-350
-1739
-  3
-AecDbDispRepWindowAssemblyPlan100
-350
-172F
-  3
-AecDbDispRepWindowAssemblyPlan50
-350
-174D
-  3
-AecDbDispRepWindowAssemblySillPlan
-350
-17E4
-  3
-AecDbDispRepWindowElev
-350
-17F8
-  3
-AecDbDispRepWindowModel
-350
-17E6
-  3
-AecDbDispRepWindowNominal
-350
-17F4
-  3
-AecDbDispRepWindowPlan
-350
-17EE
-  3
-AecDbDispRepWindowPlan100
-350
-17F6
-  3
-AecDbDispRepWindowPlan50
-350
-17FA
-  3
-AecDbDispRepWindowRcp
-350
-17F0
-  3
-AecDbDispRepWindowSillPlan
-350
-17F2
-  3
-AecDbDispRepZone
-350
-173F
-  3
-AecDbDispRepZonePlan100
-350
-1745
-  3
-AecDbDispRepZonePlan50
-350
-174B
-  3
-AecsDbDispRepMemberElevationDesign
-350
-175C
-  3
-AecsDbDispRepMemberElevationDetail
-350
-175E
-  3
-AecsDbDispRepMemberLogical
-350
-1760
-  3
-AecsDbDispRepMemberModelDesign
-350
-175A
-  3
-AecsDbDispRepMemberModelDetail
-350
-1764
-  3
-AecsDbDispRepMemberPlanDesign
-350
-1762
-  3
-AecsDbDispRepMemberPlanDetail
-350
-1766
-  3
-AecsDbDispRepMemberPlanSketch
-350
-1768
   0
 DICTIONARY
   5
@@ -28752,570 +28946,6 @@ C
 AcDbDictionary
 281
 1
-  3
-*A1
-350
-16E3
-  3
-*A10
-350
-176F
-  3
-*A100
-350
-1719
-  3
-*A101
-350
-171B
-  3
-*A102
-350
-171D
-  3
-*A103
-350
-171F
-  3
-*A104
-350
-16E7
-  3
-*A105
-350
-1722
-  3
-*A106
-350
-1724
-  3
-*A107
-350
-1726
-  3
-*A108
-350
-1728
-  3
-*A109
-350
-17B9
-  3
-*A11
-350
-1771
-  3
-*A110
-350
-172A
-  3
-*A111
-350
-172C
-  3
-*A112
-350
-172E
-  3
-*A113
-350
-1730
-  3
-*A114
-350
-1732
-  3
-*A115
-350
-1734
-  3
-*A116
-350
-16EA
-  3
-*A117
-350
-1736
-  3
-*A118
-350
-1738
-  3
-*A119
-350
-173A
-  3
-*A12
-350
-16F0
-  3
-*A120
-350
-17BB
-  3
-*A121
-350
-173C
-  3
-*A122
-350
-173E
-  3
-*A123
-350
-1740
-  3
-*A124
-350
-1742
-  3
-*A125
-350
-1744
-  3
-*A126
-350
-1746
-  3
-*A127
-350
-1748
-  3
-*A128
-350
-16EC
-  3
-*A129
-350
-174A
-  3
-*A13
-350
-17C1
-  3
-*A130
-350
-174C
-  3
-*A131
-350
-17BD
-  3
-*A132
-350
-174E
-  3
-*A133
-350
-1750
-  3
-*A134
-350
-1752
-  3
-*A135
-350
-1754
-  3
-*A136
-350
-1757
-  3
-*A137
-350
-1759
-  3
-*A138
-350
-175B
-  3
-*A139
-350
-175D
-  3
-*A14
-350
-1774
-  3
-*A140
-350
-16EE
-  3
-*A141
-350
-175F
-  3
-*A15
-350
-1776
-  3
-*A16
-350
-1778
-  3
-*A17
-350
-177A
-  3
-*A18
-350
-177C
-  3
-*A19
-350
-177E
-  3
-*A2
-350
-17BF
-  3
-*A20
-350
-1780
-  3
-*A21
-350
-1782
-  3
-*A22
-350
-1784
-  3
-*A23
-350
-1786
-  3
-*A24
-350
-17C3
-  3
-*A25
-350
-16F2
-  3
-*A26
-350
-1788
-  3
-*A27
-350
-178A
-  3
-*A28
-350
-178C
-  3
-*A29
-350
-178E
-  3
-*A3
-350
-1761
-  3
-*A30
-350
-1790
-  3
-*A31
-350
-1792
-  3
-*A32
-350
-1794
-  3
-*A33
-350
-1796
-  3
-*A34
-350
-1798
-  3
-*A35
-350
-16F8
-  3
-*A36
-350
-179A
-  3
-*A37
-350
-16F4
-  3
-*A38
-350
-179C
-  3
-*A39
-350
-179E
-  3
-*A4
-350
-1763
-  3
-*A40
-350
-17A0
-  3
-*A41
-350
-17A2
-  3
-*A42
-350
-17A4
-  3
-*A43
-350
-17A6
-  3
-*A44
-350
-17A8
-  3
-*A45
-350
-17AA
-  3
-*A46
-350
-17C5
-  3
-*A47
-350
-17AD
-  3
-*A48
-350
-17AF
-  3
-*A49
-350
-17C7
-  3
-*A5
-350
-1765
-  3
-*A50
-350
-17C9
-  3
-*A51
-350
-17CB
-  3
-*A52
-350
-17CD
-  3
-*A53
-350
-17CF
-  3
-*A54
-350
-16F6
-  3
-*A55
-350
-17D1
-  3
-*A56
-350
-17D3
-  3
-*A57
-350
-17D5
-  3
-*A58
-350
-17D7
-  3
-*A59
-350
-16FA
-  3
-*A6
-350
-1767
-  3
-*A60
-350
-17D9
-  3
-*A61
-350
-17DB
-  3
-*A62
-350
-17DD
-  3
-*A63
-350
-17DF
-  3
-*A64
-350
-17E1
-  3
-*A65
-350
-17B1
-  3
-*A66
-350
-17E3
-  3
-*A67
-350
-17E5
-  3
-*A68
-350
-17E7
-  3
-*A69
-350
-17E9
-  3
-*A7
-350
-1769
-  3
-*A70
-350
-17EB
-  3
-*A71
-350
-16FD
-  3
-*A72
-350
-17ED
-  3
-*A73
-350
-17EF
-  3
-*A74
-350
-17F1
-  3
-*A75
-350
-17F3
-  3
-*A76
-350
-17B3
-  3
-*A77
-350
-17F5
-  3
-*A78
-350
-17F7
-  3
-*A79
-350
-17F9
-  3
-*A8
-350
-176B
-  3
-*A80
-350
-17FB
-  3
-*A81
-350
-17FD
-  3
-*A82
-350
-17FF
-  3
-*A83
-350
-16FF
-  3
-*A84
-350
-1801
-  3
-*A85
-350
-1803
-  3
-*A86
-350
-1701
-  3
-*A87
-350
-17B5
-  3
-*A88
-350
-1703
-  3
-*A89
-350
-1706
-  3
-*A9
-350
-176D
-  3
-*A90
-350
-1709
-  3
-*A91
-350
-170B
-  3
-*A92
-350
-16E5
-  3
-*A93
-350
-170D
-  3
-*A94
-350
-170F
-  3
-*A95
-350
-1711
-  3
-*A96
-350
-1713
-  3
-*A97
-350
-1715
-  3
-*A98
-350
-17B7
-  3
-*A99
-350
-1717
   0
 DICTIONARY
   5
@@ -29351,7 +28981,7 @@ AcDbDictionary
   3
 AEC_VARS_DWG_SETUP
 350
-15FE
+1B21
   0
 DICTIONARY
   5
@@ -29375,7 +29005,7 @@ ASEBlockHierarchyIndexRecord
 1001
 DCO15
 1040
--2086120458.0
+-2086116602.0
   0
 DICTIONARY
   5
@@ -29423,7 +29053,7 @@ MetadataDictionary
 1001
 MapGWS
 1000
-C:\ProgramData\Autodesk\Autodesk AutoCAD Map 3D 2022\R24.1\MapCache\PLAN_1326GWS1795433942.xml
+C:\ProgramData\Autodesk\Autodesk AutoCAD Map 3D 2022\R24.1\MapCache\PLAN_1326_updatedGWS1795437798.xml
   0
 DICTIONARY
   5
@@ -29687,7 +29317,7 @@ d>^J        <Value uom="meter">-48</Value>^J      </ParameterValue>^J      <Para
  13
 155647.2795940344
  23
-752997.955526701
+752997.9555267011
  14
 34.52273026187633
  24
@@ -30159,7 +29789,7 @@ d>^J        <Value uom="meter">-48</Value>^J      </ParameterValue>^J      <Para
  13
 154654.2413308644
  23
-368821.8430472096
+368821.8430472097
  14
 34.53685060422726
  24
@@ -30295,7 +29925,7 @@ d>^J        <Value uom="meter">-48</Value>^J      </ParameterValue>^J      <Para
  13
 283212.2348359964
  23
-802390.7573705745
+802390.7573705747
  14
 35.88916519580335
  24
@@ -30657,7 +30287,7 @@ d>^J        <Value uom="meter">-48</Value>^J      </ParameterValue>^J      <Para
  23
 538184.2909721644
  14
-35.42863491985559
+35.4286349198556
  24
 30.93443525535908
  13
@@ -30775,7 +30405,7 @@ d>^J        <Value uom="meter">-48</Value>^J      </ParameterValue>^J      <Para
  13
 172018.7786755669
  23
-469565.9323059072
+469565.9323059071
  14
 34.71130347139741
  24
@@ -31095,7 +30725,7 @@ d>^J        <Value uom="meter">-48</Value>^J      </ParameterValue>^J      <Para
  13
 247795.6784502389
  23
-789530.343798177
+789530.3437981771
  14
 35.50844346147629
  24
@@ -31231,7 +30861,7 @@ d>^J        <Value uom="meter">-48</Value>^J      </ParameterValue>^J      <Para
  13
 169098.6007974946
  23
-802844.8135696319
+802844.813569632
  14
 34.66370223023321
  24
@@ -32582,10 +32212,6 @@ AcDbSortentsTable
 15BF
   5
 16CD
-331
-16CD
-  5
-191A
   0
 SORTENTSTABLE
   5
@@ -34791,7 +34417,7 @@ ANSI31
  40
 -0.2617993877991494
  40
-1.832595714594045
+1.832595714594044
   0
 ACDBSECTIONVIEWSTYLE
   5
@@ -34915,7 +34541,7 @@ ANSI31
  40
 -0.2617993877991494
  40
-1.832595714594045
+1.832595714594044
   0
 TABLESTYLE
   5
@@ -42237,7 +41863,7 @@ DictionaryVariables
   0
 XRECORD
   5
-1A22
+1CBF
 102
 {ACAD_REACTORS
 330
@@ -42287,7 +41913,9 @@ AcDbXrecord
 280
 1
 330
-16CD
+1CA9
+330
+1CAE
   0
 DMSTYLIZEDENTITIESTABLE
   5
@@ -42577,7 +42205,7 @@ DictionaryVariables
 280
 0
   1
-1.4.5 @ 2026-11-23T12:29:01.165961+00:00
+1.4.5 @ 2026-11-23T12:45:37.052502+00:00
   0
 XRECORD
   5
@@ -42749,7 +42377,7 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-1A24
+1CC1
   0
 DICTIONARY
   5
@@ -42765,7 +42393,7 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-1A23
+1CC0
   0
 DMMAP
   5
@@ -42841,7 +42469,7 @@ Legend
 360
 1BB
  40
-8134.473763114526
+8529.87225453074
 290
 0
 290
@@ -42855,13 +42483,13 @@ Legend
 290
 1
  40
-210159.837753922
+210046.4244772469
  40
-602468.0253091448
+602455.3582281386
  40
-213582.4802518898
+213635.4339363439
  40
-603978.9021297211
+604039.6753760146
   1
 
 290
@@ -43327,7 +42955,7 @@ AcDbXrecord
   0
 CELLSTYLEMAP
   5
-1A24
+1CC1
 102
 {ACAD_REACTORS
 330
@@ -43973,7 +43601,7 @@ CELLSTYLE_END
   0
 CELLSTYLEMAP
   5
-1A23
+1CC0
 102
 {ACAD_REACTORS
 330
@@ -44931,19 +44559,19 @@ FF3366FF6666FF9966FFCC66FFFF9900009900339900669900999900CC9900FF9933009933339933
 310
 FF3366FF3399FF33CCFF33FFFF6600FF6633FF6666FF6699FF66CCFF66FFFF9900FF9933FF9966FF9999FF99CCFF99FFFFCC00FFCC33FFCC66FFCC99FFCCCCFFCCFFFFFF00FFFF33FFFF66FFFF99FFFFCCFFFFFF0000000D0D0D1A1A1A2828283535354343435050505D5D5D6B6B6B787878868686939393A1A1A1AEAEAEBB
 310
-BBBBC9C9C9D6D6D6E4E4E4F1F1F1FFFFFF0000000000000000000000000000000000000000000000000000000000003AE5ACE9000004344944415478DAED9D4B4EA4310C847D89EFFE571D813A71D9C90FC366465D260B680936AE3876F9D911BFE7F7FC9EFF7FF83893E55F288CBDFFF3D3B8FBFF149DA50C23F5FFF323E3
+BBBBC9C9C9D6D6D6E4E4E4F1F1F1FFFFFF0000000000000000000000000000000000000000000000000000000000003AE5ACE9000001FA4944415478DAED9BCB6D03410C43D504FBEF646A33D6B3FAC2D7E420F2C101E2DCC4953892666326841042082184104208218410420821FE1F3C50C7FF7E789F7FFCF0C67F138041
 310
-9460DD7CA4028C82E04358E80FC00A822F6D7B5EF8070A620170BA62BE55FF4F90AA05B4518267C3CEB27B7C7EA45DBC092BE0599DD11FEC1FE18501B7070D8BFAF2D27E60DBC2078EF4F600709E603F04F663B8B284B70740629DFECC51842E44887707E0A5DC5B622E2A8E7A8C840A2C10A8977C3508915E00A5432E00BC
+82F99C3D7EBB7F5EAF007A8C37F49AFFDB0BE115E0EBFB38E73E7AB46360B7024FD837586405B80645A5D547BE9D96E9078957C5F212F06091D5D07A81DD35E0E1A3B6812EC85560BB09A0447DCD3092C04FC5F57D7F2BFBC715A206F6F7C4F78947A6CF2CD8DF1063FABC27C499A7218900D909CE8E68B70978CB076F7FBF
 310
-DE3AD4D067BB49E4AFCB1818BD81243B700380921169CFC0C40C9236AECBB3E5DE2E60B9452B004405E8E2AB2F907FBCB98DF70620C940F1829B0FA416BC4C221E6C50347A892F4C9028B60F098C3618360088A313FD2FDE60FF5E4A601010B18920472CD05DDF7E072F043C22C225FD4D982521A9F169096C22E2E5FD78D0
+3960583E0D78B97701FA59B85F8032FCF56EC01E7128F23F2A1D6500825118809BBEA1B67CDE08EF5F07BC8FFADC22409910387662281B30589D87F61F00DDEDDD07733020590B23164296D32F9896C23507621DC4743592231F623B62008501D41AB03915F35C8AE4D4537E65BA142A370119FF31A35200CD0B0EDBADE070
 310
-8F0D80283F4EC9C165D3790E1624188AFDDF84190037796AA4C492FB1E18BE7556ECE142D10808F1014E15023A0BECC901444BD22B78F8C09DFAB90240B1932B41F495D17CC750706BF32512EA89131A27B200A0E4BC79CA76ADE4F83689162E2085CAF4F763A04FBA045CCAC48D063715E04A89D20BF80010DCF2214FF600
+7FA3BB171D8D109D09586985C17937EE1D406D868D4D81EA03845510E31FEA3684CD052207E22BDD5190CF9D691A983E90EDB19129505A623E13E84301CB4AF4673BD0E642B61AC0B4013A17F0D742403810B42230A315202F08285F194719058C3205226E5613C8A9883303CA829455805C9092FED7C87C63905380F2A610
 310
-1703200F99C6F3BE94DF8E03EA1B407B01CEB489A6CE5C001007584AC0DCDD8572631712AC0C27BB409E0981557B440B6C883BC94BBB8759B79C5AC11004E8E990C86AA955A398A4B9E4895F14A0E4C2C20E81DA007614076247407E5D726AF54B05E4922E30BCFF2D9EC8D7DD00AD7A660B0021864EEE5A33828E8DB29446
+A7024678433617030847604D01CE71A8B443BC196086311A33A6400A61AC12F09E0242082184104208218410420821841042FC251FEB7056878C744EE40000000049454E44AE4260820000000049454E44AE42608298FDBC751DFF86044808291AF3BF9300EEDB3D3CF8DE01B8EBFF1009C097FA4701DA9631D5806AFE7B09
 310
-B8F5D8D5208847706C1185A874306ABD349B875C1BA50BFD477830991275963F85DC76B0D63DB06F94473243EA13C5F43B05808F8F4033BFF545B8CBBF5540191FAD59C87B4620EB3C3BE999850F306540871D3CE2C3D0A2A0F7948834C064AD186D8A729F96A2713FA29541DC11D050AF2546B34F146F4F40CF0D44E99D0B
+F806D4F3274AE030A0057F9A04CFB031813F4B027B1FD02700896F82F61D609F1D915EFC3713023E835F2C41437EA9043DF98512740D804A82BEFC1A093AF32B2468CE4F97A03DFF4D08BAFC24AC320F3E25003409A6F0B32418C44F9160143F418269FCD912CCE35FB9271B4706E0E5B44B0E5C8F96602C7F9204B3F9E312
 310
-7304242622A4290A614431800D9DC4B776CA7B23809A81561E20E786ACC9404F8CA55918A1028719281E700C02476294D229641F1545AB9594BA30EE64208B65158E9C9D1D1115419F1565CAFA80323474CE8F981BC1A2033D4C56BD1810199F2AC000369C08140E84A60927EC10D1D248AB88FA4C89FC5D72401AE83468F6
+4CE6BFFB589AF6FFA3FB27404C82235E0001090E102024C121FC6E09CEE1F7497012FFEB100047F25B4E9DE33304304B7020BF4982F312C026C1A9FCBB121CCCBF25C16C7E778387CF10604382E3F9DF48707A02BC93E033F8ED8D21FFFA07E9C14D9B23764C990000000049454E44AE426082FA4C89FC5D72401AE83468F6
 310
 DFA12295913A393405812C03F44CD03C1568BB63C60040EF2194309111EBB428EB016454C0AB51F2FBD058B3A1EC853A5354A099C4796FE034830C03A09AC16C151DB14EAE4D8E2B185300E823F3F202A6A8408F8AA70110D93331D00AEA73EF2E61C8524DA45DF6208331C80AA0C3B5131A664E3628BD533372C3A72BCC36
 310
